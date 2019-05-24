@@ -28,7 +28,7 @@
 // of the authors and should not be interpreted as representing official policies,
 // either expressed or implied, of the FreeBSD Project.
 //
-// https://github.com/xxxxxxxxxxxxxxxxxx
+// https://github.com/PavelMr/PButton
 //
 
 #ifndef PBUTTON_H

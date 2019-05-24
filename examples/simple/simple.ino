@@ -14,11 +14,6 @@ void loop()
   if (button.isClicked()) 
   {
     Serial.println("Button is clicked");
-  }
-
-  if (button.isReleased())
-  {
-    Serial.println("Button is released");
-  }
+  }  
   delay(5);  
 }
